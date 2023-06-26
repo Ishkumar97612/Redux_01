@@ -3,9 +3,10 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 70vh;
     align-items: center;
     font-family: "Inter";
+
 }
 .login__form {
     display: flex;
@@ -27,4 +28,9 @@
     font-family: "Inter";
     border-radius: 2px;
     font-size: 15px;
+}
+
+.submit__btn{
+    padding: 15px;
+    background-color: rgb(176, 206, 176);
 }

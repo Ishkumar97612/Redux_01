@@ -26,7 +26,7 @@ const Login = () => {
   return (
     <div className="login">
       <form className="login__form" onSubmit={(e) => handleSubmit(e)}>
-        <h1>Login Here...</h1>
+        <h1>Enter Data....</h1>
         <input
           type="name"
           placeholder="Name"
